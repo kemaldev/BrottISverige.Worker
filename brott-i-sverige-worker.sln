@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.29324.140
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrottISverigeWorker", "src\brott-i-sverige-worker\BrottISverigeWorker.csproj", "{D63FA287-5FFA-4539-9F93-2E49F7335932}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrottISverigeWorker.Application", "src\BrottISverigeWorker.Application\BrottISverigeWorker.Application.csproj", "{71BA80C1-05F3-40A1-81B5-79C2B93D7CF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrottISverigeWorker.Application", "src\BrottISverigeWorker.Application\BrottISverigeWorker.Application.csproj", "{71BA80C1-05F3-40A1-81B5-79C2B93D7CF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrottISverigeWorker.Models", "src\BrottISverigeWorker.Models\BrottISverigeWorker.Models.csproj", "{579F4216-26C8-4649-ACD0-111F4F6203FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrottISverigeWorker.Models", "src\BrottISverigeWorker.Models\BrottISverigeWorker.Models.csproj", "{579F4216-26C8-4649-ACD0-111F4F6203FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrottISverigeWorker.Common", "BrottISverigeWorker.Common\BrottISverigeWorker.Common.csproj", "{372926CA-9162-4EE4-B907-C3BECAD68E5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrottISverigeWorker.Common", "src\BrottISverigeWorker.Common\BrottISverigeWorker.Common.csproj", "{60822B91-85B1-4BC8-8B93-7206B0FED3A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{579F4216-26C8-4649-ACD0-111F4F6203FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{579F4216-26C8-4649-ACD0-111F4F6203FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{579F4216-26C8-4649-ACD0-111F4F6203FE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{372926CA-9162-4EE4-B907-C3BECAD68E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{372926CA-9162-4EE4-B907-C3BECAD68E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{372926CA-9162-4EE4-B907-C3BECAD68E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{372926CA-9162-4EE4-B907-C3BECAD68E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60822B91-85B1-4BC8-8B93-7206B0FED3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60822B91-85B1-4BC8-8B93-7206B0FED3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60822B91-85B1-4BC8-8B93-7206B0FED3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60822B91-85B1-4BC8-8B93-7206B0FED3A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

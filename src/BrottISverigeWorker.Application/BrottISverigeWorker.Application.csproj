@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\BrottISverigeWorker.Common\BrottISverigeWorker.Common.csproj" />
+    <ProjectReference Include="..\BrottISverigeWorker.Common\BrottISverigeWorker.Common.csproj" />
     <ProjectReference Include="..\BrottISverigeWorker.Models\BrottISverigeWorker.Models.csproj" />
   </ItemGroup>
 
